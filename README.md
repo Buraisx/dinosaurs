@@ -1,9 +1,6 @@
 [See assignment in Alexa](https://alexa.bitmaker.co/cohorts/72/assignments/2247/latest)
+
 SELECT COUNT(*) from dinos;
- count 
--------
-   331
-(1 row)
 
 SELECT * FROM dinos WHERE period = 'Jurassic';
 
